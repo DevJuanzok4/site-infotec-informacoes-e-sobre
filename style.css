@@ -1,0 +1,76 @@
+.sobre{
+    color: blueviolet;
+}
+.span{
+    color: blue;
+}
+
+.card-title{
+    color: blue;
+}
+
+.pq{
+    color: blueviolet;
+}
+
+.k{
+    color: blue;
+}
+
+.kk{
+    color: blue;
+}
+
+body{
+    background-color:rgb(0, 0, 0);
+}
+
+.card{
+ background-color: black;
+ border: 5px;
+ border-color: blue;
+}
+
+.card-text{
+    color: aliceblue;
+}
+.text-center{
+    color: aliceblue;
+}
+
+.juan{
+    color: aliceblue;
+}
+
+.kaua{
+    color: aliceblue;
+}
+
+.blue{
+   color: blueviolet;
+}
+
+.jr{
+    color: blueviolet;
+}
+
+.kkk{
+    color: aliceblue;
+}
+.kkkk{
+    color: aliceblue;
+}
+.fw-normal{
+color: cornsilk;
+}
+.carousel-inner img {
+  width: 100%;
+  height: auto;
+}
+
+.carousel-item img {
+    width: 65%;
+    height: auto;
+  }
+  
+ 
